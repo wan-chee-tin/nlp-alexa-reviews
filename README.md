@@ -10,7 +10,7 @@ To get this project up and running on your local machine, follow these steps:
 2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
-3. The amazon_alexa.tsv dataset is already included in the `data/` folder for convenience, so you can download and use it straightaway. If you encounter any issues with the included file, you can manually download the dataset from [Amazon Alexa Reviews dataset on Kaggle](https://www.kaggle.com/datasets/sid321axn/amazon-alexa-reviews).
+3. The `amazon_alexa.tsv` dataset is already included in the `data/` folder for convenience, so you can download and use it straightaway. If you encounter any issues with the included file, you can manually download the dataset from [Amazon Alexa Reviews dataset on Kaggle](https://www.kaggle.com/datasets/sid321axn/amazon-alexa-reviews).
 4. Launch the Jupyter notebook:
    ```bash
    jupyter notebook alexa-reviews-analysis.ipynb
