@@ -1,4 +1,4 @@
-## 🧬 Project Overview
+## 📖 Project Overview
 Customer feedback plays a vital role in shaping product innovation and user experience. In this project, Natural Language Processing (NLP) techniques are applied to an Amazon Alexa product review dataset containing over 3,000 entries. The primary objective is to analyze consumer sentiment and train a machine learning model capable of classifying reviews as positive or negative. By leveraging text cleaning, lemmatization, and Random Forest classification, this project aims to uncover meaningful insights from unstructured text data and demonstrate how NLP can aid businesses in understanding customer feedback at scale.
 
 ## 🚀 How to Run
