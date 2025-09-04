@@ -7,7 +7,7 @@ Customer feedback plays a vital role in shaping product innovation and user expe
 To get this project up and running on your local machine, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Raxeira/nlp-alexa-reviews.git
+   git clone https://github.com/wan-chee-tin/nlp-alexa-reviews.git
    cd nlp-alexa-reviews
 2. Install the required dependencies:
    ```bash
